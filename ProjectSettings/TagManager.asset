@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piece
+  - MovePlate
+  - WinnerText
+  - RestartText
+  - PromotionPiece
+  - White_Queen_Promote
+  - White_Rook_Promote
+  - White_Bishop_Promote
+  - White_Knight_Promote
+  - Black_Queen_Promote
+  - Black_Rook_Promote
+  - Black_Bishop_Promote
+  - Black_Knight_Promote
+  - MenuBackground
+  - PlayerVsPlayer
+  - PlayerVsCPU
+  - RestartTextComponent
+  - WinnerTextComponent
+  - InGameButtons
+  - MenuOptions
+  - ColorSelection
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
